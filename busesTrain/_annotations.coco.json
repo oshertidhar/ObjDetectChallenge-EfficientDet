@@ -4,7 +4,7 @@
         "version": "1",
         "description": "Exported from roboflow.ai",
         "contributor": "Roboflow",
-        "url": "",
+        "url": "https://public.roboflow.ai/object-detection/chess-pieces-full",
         "date_created": "2020-03-27T21:30:28+00:00"
     },
     "licenses": [
@@ -57,420 +57,420 @@
             "license": 1,
 	    "file_name": "DSCF1013.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 1,
             "license": 1,
 	    "file_name": "DSCF1015.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 2,
             "license": 1,
 	    "file_name": "DSCF1016.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 3,
             "license": 1,
 	    "file_name": "DSCF1017.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 4,
             "license": 1,
 	    "file_name": "DSCF1021.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 5,
             "license": 1,
 	    "file_name": "DSCF1023.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 6,
             "license": 1,
 	    "file_name": "DSCF1025.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 7,
             "license": 1,
 	    "file_name": "DSCF1029.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 8,
             "license": 1,
 	    "file_name": "DSCF1032.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 9,
             "license": 1,
 	    "file_name": "DSCF1037.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 10,
             "license": 1,
 	    "file_name": "DSCF1038.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 11,
             "license": 1,
 	    "file_name": "DSCF1040.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 12,
             "license": 1,
 	    "file_name": "DSCF1042.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 13,
             "license": 1,
 	    "file_name": "DSCF1044.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 14,
             "license": 1,
 	    "file_name": "DSCF1048.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 15,
             "license": 1,
 	    "file_name": "DSCF1049.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 16,
             "license": 1,
 	    "file_name": "DSCF1050.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 17,
             "license": 1,
 	    "file_name": "DSCF1053.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 18,
             "license": 1,
 	    "file_name": "DSCF1056.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 19,
             "license": 1,
 	    "file_name": "DSCF1059.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 20,
             "license": 1,
 	    "file_name": "DSCF1061.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 21,
             "license": 1,
 	    "file_name": "DSCF1064.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 22,
             "license": 1,
 	    "file_name": "DSCF1065.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 23,
             "license": 1,
 	    "file_name": "DSCF1066.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 24,
             "license": 1,
 	    "file_name": "DSCF1068.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 25,
             "license": 1,
 	    "file_name": "DSCF1070.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 26,
             "license": 1,
 	    "file_name": "DSCF1072.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 27,
             "license": 1,
 	    "file_name": "DSCF1074.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 28,
             "license": 1,
 	    "file_name": "DSCF1077.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
 	},
         {
             "id": 29,
             "license": 1,
 	    "file_name": "DSCF1081.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 30,
             "license": 1,
 	    "file_name": "DSCF1082.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 31,
             "license": 1,
 	    "file_name": "DSCF1086.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 32,
             "license": 1,
 	    "file_name": "DSCF1088.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 33,
             "license": 1,
 	    "file_name": "DSCF1090.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 34,
             "license": 1,
 	    "file_name": "DSCF1092.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 35,
             "license": 1,
 	    "file_name": "DSCF1094.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 36,
             "license": 1,
 	    "file_name": "DSCF1097.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 37,
             "license": 1,
 	    "file_name": "DSCF1099.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 38,
             "license": 1,
 	    "file_name": "DSCF1101.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 39,
             "license": 1,
 	    "file_name": "DSCF1103.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 40,
             "license": 1,
 	    "file_name": "DSCF1104.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 41,
             "license": 1,
 	    "file_name": "DSCF1105.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 42,
             "license": 1,
 	    "file_name": "DSCF1106.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 43,
             "license": 1,
 	    "file_name": "DSCF1109.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 44,
             "license": 1,
 	    "file_name": "DSCF1110.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 45,
             "license": 1,
 	    "file_name": "DSCF1111.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 46,
             "license": 1,
 	    "file_name": "DSCF1114.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 47,
             "license": 1,
 	    "file_name": "DSCF1116.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 48,
             "license": 1,
 	    "file_name": "DSCF1020.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 49,
             "license": 1,
 	    "file_name": "DSCF1122.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 50,
             "license": 1,
 	    "file_name": "DSCF1125.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 51,
             "license": 1,
 	    "file_name": "DSCF1129.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 52,
             "license": 1,
 	    "file_name": "DSCF1130.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 53,
             "license": 1,
 	    "file_name": "DSCF1132.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 54,
             "license": 1,
 	    "file_name": "DSCF1133.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 55,
             "license": 1,
 	    "file_name": "DSCF1135.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 56,
             "license": 1,
 	    "file_name": "DSCF1137.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 57,
             "license": 1,
 	    "file_name": "DSCF1140.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 58,
             "license": 1,
 	    "file_name": "DSCF1141.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
         },
         {
             "id": 59,
             "license": 1,
 	    "file_name": "DSCF1142.JPG",
             "height": 2736,
-            "width": 3648,
+            "width": 3648
 
        }
     ],
